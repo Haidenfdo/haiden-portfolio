@@ -1,0 +1,381 @@
+.headings {
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.sports1 {
+    width: 30%;
+    height: 40%;
+    margin-top: 10%;
+    margin-left: 5%;
+    border-radius: 15px;
+}
+
+.abt_sport {
+    margin-left: 40%;
+    position: absolute;
+    margin-top: -20%;
+    font-size: 30px;
+}
+
+.abt_dance {
+    margin-left: 5%;
+    position: absolute;
+    margin-top: -20%;
+    font-size: 30px;
+}
+
+.dance1 {
+    width: 30%;
+    height: 40%;
+    margin-top: 7%;
+    margin-left: 60%;
+    border-radius: 15px;
+}
+
+.tech {
+    width: 30%;
+    height: 40%;
+    margin-top: 7%;
+    margin-left: 5%;
+    border-radius: 15px;
+}
+
+.half {
+    background-color: #3FD27A;
+    width: 35%;
+    height: 70%;
+    margin-left: -2%;
+    margin-top: 8%;
+}
+
+.short {
+    position: absolute;
+    margin-left: 25%;
+    border-radius: 50%;
+    border: ridge rgb(59, 58, 58);
+    margin-top: 8%;
+    background-color: black;
+}
+
+.bio {
+    padding-top: 40%;
+    padding-left: -5%;
+}
+
+.abt_bio {
+    padding-right: 5%;
+    font-size: 15px;
+}
+
+.abt_me {
+    margin-left: 50%;
+    margin-top: -35%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
+.black {
+    background-color: #383838;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    position: absolute;
+    height: 10%;
+    margin-top: 42%;
+}
+
+.abt_para {
+    margin-left: 50%;
+    margin-top: 3%;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    width: 10%;
+    height: 5%;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 50%;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.btn:hover {
+    color: white;
+    background-color: black;
+}
+
+.insta {
+    position: absolute;
+    margin-top: 4%;
+    margin-left: -34%;
+    font-size: 20px;
+    color: #383838;
+}
+
+.faceb {
+    position: absolute;
+    margin-top: 4%;
+    margin-left: -31%;
+    font-size: 20px;
+    color: #383838;
+}
+
+.twitt {
+    position: absolute;
+    margin-top: 4%;
+    margin-left: -28%;
+    font-size: 20px;
+    color: #383838;
+}
+
+.link {
+    position: absolute;
+    margin-top: 4%;
+    margin-left: -25%;
+    font-size: 20px;
+    color: #383838;
+}
+
+.git {
+    position: absolute;
+    margin-top: 4%;
+    margin-left: -22%;
+    font-size: 20px;
+    color: #383838;
+}
+
+.html {
+    width: 15%;
+    height: 20%;
+    margin-left: 8%;
+}
+
+.css {
+    width: 15%;
+    height: 25%;
+    margin-left: 8%;
+}
+
+.js {
+    height: 25%;
+    margin-left: 8%;
+}
+
+.mysql {
+    margin-left: 8%;
+}
+
+.boots {
+    width: 15%;
+    height: 20%;
+    margin-left: 8%;
+}
+
+.java {
+    height: 20%;
+    width: 15%;
+    margin-left: 8%;
+}
+
+.ruby {
+    margin-top: 4%;
+    margin-left: 8%;
+}
+
+.rails {
+    margin-left: 8%;
+}
+
+.lang {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5%;
+    margin-left: 40%;
+    font-weight: 900;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px red;
+}
+
+
+.prj {
+    margin-top: 5%;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px red;
+    margin-left: 47%;
+}
+
+#html {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+    margin-top: 5%;
+}
+
+#html:hover {
+    width: 900px;
+}
+
+
+#css {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+#css:hover {
+    width: 800px;
+}
+
+#js {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+#js:hover {
+    width: 850px;
+}
+
+#mysql {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+#mysql:hover {
+    width: 900px;
+}
+
+#boot {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+#boot:hover {
+    width: 800px;
+}
+
+#java {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+#java:hover {
+    width: 800px;
+}
+
+#ruby {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+#ruby:hover {
+    width: 850px
+}
+
+#rails {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+}
+
+#rails:hover {
+    width: 900px;
+}
+
+
+
+/* image hover  */
+.holder-image {
+    position: relative;
+    width: inherit;
+    height: 100%;
+    overflow: hidden;
+    margin: 10px;
+
+}
+
+.layer {
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    opacity: 0.5;
+    display: none;
+    transition: 0.5s;
+}
+
+.holder-image:hover .layer {
+    display: block;
+    transition: 0.5s;
+
+}
+
+.holder-image:hover .him {
+    filter: blur(4px);
+    transition: 1s;
+}
+
+.holder-image:hover .her {
+    filter: blur(4px);
+    transition: 1s;
+}
+
+.holder-image .image-text {
+    position: absolute;
+    color: white;
+    font-size: 2em;
+    z-index: 200;
+    text-align: center;
+    transition: 1s;
+    top: 110%;
+
+
+
+}
+
+.holder-image:hover .image-text {
+    transition: 0.5s;
+    top: 40%;
+    left: 40%;
+
+}
+
+
+.him {
+    height: 100%;
+    width: 100%;
+    position: relative;
+
+}
+
+.her {
+    height: inherit;
+    width: inherit;
+
+    position: relative;
+}
+
+.project-holder {
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+
+.pl {
+    margin-left: 100%;
+}
